@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/Blockchain_Cali) [LinkedIn](www.linkedin.com/in/blockchaincali)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/Blockchain_Cali) [LinkedIn](www.linkedin.com/in/blockchaincali) [Medium](https://chisomogueji.medium.com/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The first computer virus was created in 1986
 
