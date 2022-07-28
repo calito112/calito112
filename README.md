@@ -1,4 +1,4 @@
-### Hi there! Here is what I'm working on. 👋
+### Hi there! 👋
 
 - 🔭 I’m currently working on ... AB
 - 🌱 I’m currently learning ... C programming, Solidity.
