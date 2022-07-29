@@ -6,4 +6,4 @@
 - 📫 How to reach me: ... [LinkedIn](www.linkedin.com/in/blockchaincali) [Medium](https://chisomogueji.medium.com/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The first computer virus was created in 1986
-![eat](https://user-images.githubusercontent.com/92938717/181673769-427bed13-5cb9-45ad-a529-bd2379dbf919.gif)
+![code](https://user-images.githubusercontent.com/92938717/181673769-427bed13-5cb9-45ad-a529-bd2379dbf919.gif)
