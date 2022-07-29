@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... AB
 - 🌱 I’m currently learning ... C programming, Solidity.
 - 💬 Ask me about ... anything blockchain technology
-- 📫 How to reach me: ... [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+- 📫 How to reach me: ... <div> Icons made by <a href="https://www.flaticon.com/authors/md-tanvirul-haque" title="Md Tanvirul Haque"> Md Tanvirul Haque </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
 - [LinkedIn](www.linkedin.com/in/blockchaincali) [Medium](https://chisomogueji.medium.com/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... The first computer virus was created in 1986
